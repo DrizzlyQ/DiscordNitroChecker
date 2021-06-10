@@ -1,5 +1,5 @@
 # DiscordNitroChecker
-A Discord Nitro Generator Pyhton script that automatically generates and checks discord.gift links
+A Discord Nitro Generator Python script that automatically generates and checks discord.gift links
 
 Before running the bot run these commands on a clean cmd prompt:
 
